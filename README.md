@@ -4,7 +4,7 @@
 [![GitHub API](https://img.shields.io/badge/GitHub-REST%20API-black)](#)
 [![YouTrack](https://img.shields.io/badge/YouTrack-REST%20API-purple)](#)
 
-This is my solution for the **Import from ClickUp to YouTrack** test task. This tool imports issues from GitHub to YouTrack and synchronizes further changes.
+This tool imports issues from GitHub to YouTrack and synchronizes further changes.
 
 [Demo](https://youtu.be/ZjaPEp95DzY)
 
