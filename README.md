@@ -6,8 +6,6 @@
 
 This tool imports issues from GitHub to YouTrack and synchronizes further changes.
 
-[Demo](https://youtu.be/ZjaPEp95DzY)
-
 # Overview
 This tool synchonizes GitHub issues with YouTrack using a webhook that tracks changes in real time.
 On the initial run, it imports all unique issues from GitHub into YouTrack.
