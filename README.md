@@ -1,4 +1,4 @@
-# Integration of YouTrack issues with GitHub | JetBrains internship test task
+# Integration of YouTrack issues with GitHub
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](#)
 [![GitHub API](https://img.shields.io/badge/GitHub-REST%20API-black)](#)
